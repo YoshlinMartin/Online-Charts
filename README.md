@@ -1,2 +1,3 @@
 # Online-Charts
-This app lets users enter a category and value, upload the data to Firebase, and view it as a pie chart or bar graph. The main screen includes two input fields and two buttons: one to upload data and one to view charts. After uploading, the input fields are automatically cleared for the next entry.
+This application allows the user to add a category and a value to the entry, then upload those entries to firebase. The user can then view their entries in a pie chart and a bar graph.
+The main page has 2 EditTexts, one for a category entry and one for a value entry. There are 2 buttons, one to upload to firebase and one to view the charts. If the user clicks the button to upload results to firebase, the textfields will clear after the entries have been uploaded.
