@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChartOnline</string>
+    <string name="view_charts">View charts</string>
+    <string name="add_to_firebase">Add to firebase</string>
+    <string name="value">Value</string>
+    <string name="category_eg_food">Category (eg food)</string>
+</resources>

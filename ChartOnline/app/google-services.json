@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652862193193",
+    "project_id": "chartonlinetwo",
+    "storage_bucket": "chartonlinetwo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652862193193:android:0092247554073c69e36638",
+        "android_client_info": {
+          "package_name": "com.example.chartonline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbdA78XG653KTT94G3HP5X74wtUg_gUFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
